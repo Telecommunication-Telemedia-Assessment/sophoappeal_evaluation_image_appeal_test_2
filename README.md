@@ -1,6 +1,6 @@
 # Sophoappeal image appeal test #2 -- lab and crowd
 
-Core idea of test #2: images and like views, using aesthetics_view test framework, with a [1,5] star rating.
+Core idea of test #2: images and like views, using [aesthetics_srv](https://github.com/Telecommunication-Telemedia-Assessment/sophoappeal_aesthetics_srv) test framework, with a [1,5] star rating.
 
 This repository is part of [Sohpappeal](https://github.com/Telecommunication-Telemedia-Assessment/sophoappeal).
 Please use the main repository as starting point.
